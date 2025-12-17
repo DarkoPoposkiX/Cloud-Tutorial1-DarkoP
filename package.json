@@ -20,5 +20,6 @@
   "homepage": "https://github.com/DarkoPoposkiX/Cloud-Tutorial1-DarkoP#readme",
   "dependencies": {
     "supabase": "^2.67.2"
-  }
+  },
+  "devDependencies": {}
 }
